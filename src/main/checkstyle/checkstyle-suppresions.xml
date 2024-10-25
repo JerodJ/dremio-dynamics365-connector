@@ -20,4 +20,3 @@
 <suppressions>
   <suppress files="[\\/]generated-sources[\\/]" checks="AvoidStarImport,NeedBraces"/>
 </suppressions>
-
